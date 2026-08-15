@@ -16,4 +16,4 @@ Download [pzmap-bridge-server.py]()<br><br>
 Open a new terminal/command prompt window in the same directory as <code>pzmap-bridge-server.py</code><br>
 In that window, run <code>python pzmap-bridge-server.py</code><br><br>
 
-Start your Project Zomboid save, go to the [map](map.projectzomboid.com) and click follow player on the top left to immediately go to your player marker!
+Start your Project Zomboid save, go to the [map](https://map.projectzomboid.com) and click follow player on the top left to immediately go to your player marker!
